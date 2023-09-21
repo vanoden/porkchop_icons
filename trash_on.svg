@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="c" data-name="Core Icons">
+    <g>
+      <rect x="13" y="9" width="14" height="2" fill="#ed1c24" stroke-width="0"/>
+      <path d="m20,0C8.954,0,0,8.954,0,20s8.954,20,20,20,20-8.954,20-20S31.046,0,20,0Zm10,30.323c0,.926-.751,1.677-1.677,1.677H11.677c-.926,0-1.677-.751-1.677-1.677v-12.323h20v12.323Zm3-14.323H7v-4h2v-1h2v-3l1-1h16l1,1v3h2v1h2v4Z" fill="#ed1c24" stroke-width="0"/>
+      <path d="m18,30c.55,0,1-.45,1-1v-8c0-.55-.45-1-1-1s-1,.45-1,1v8c0,.55.45,1,1,1Z" fill="#ed1c24" stroke-width="0"/>
+      <path d="m26,30c.55,0,1-.45,1-1v-8c0-.55-.45-1-1-1s-1,.45-1,1v8c0,.55.45,1,1,1Z" fill="#ed1c24" stroke-width="0"/>
+      <path d="m22,30c.55,0,1-.45,1-1v-8c0-.55-.45-1-1-1s-1,.45-1,1v8c0,.55.45,1,1,1Z" fill="#ed1c24" stroke-width="0"/>
+      <path d="m14,30c.55,0,1-.45,1-1v-8c0-.55-.45-1-1-1s-1,.45-1,1v8c0,.55.45,1,1,1Z" fill="#ed1c24" stroke-width="0"/>
+    </g>
+  </g>
+</svg>

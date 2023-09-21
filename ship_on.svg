@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="c" data-name="Core Icons">
+    <g>
+      <polygon points="20.431 31.469 32.12 27.108 32.12 14.356 20.431 18.717 20.431 31.469" fill="#2fc61e" stroke-width="0"/>
+      <polygon points="12.514 12.614 9.2 13.851 19.893 17.85 23.206 16.614 12.514 12.614" fill="#2fc61e" stroke-width="0"/>
+      <path d="m20,0C8.954,0,0,8.954,0,20s8.954,20,20,20,20-8.954,20-20S31.046,0,20,0Zm13.12,27.803l-13.19,4.92-13.051-4.882v-14.192l13.135-4.914.019.007.019-.007,13.068,4.888v14.179Z" fill="#2fc61e" stroke-width="0"/>
+      <polygon points="17.179 10.874 27.871 14.874 30.741 13.803 20.033 9.809 17.179 10.874" fill="#2fc61e" stroke-width="0"/>
+      <polygon points="7.88 27.147 19.431 31.468 19.431 18.745 7.88 14.424 7.88 27.147" fill="#2fc61e" stroke-width="0"/>
+    </g>
+  </g>
+</svg>
