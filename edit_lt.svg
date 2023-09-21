@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="c" data-name="Core Icons">
+    <path d="m40,20c0,11.046-8.954,20-20,20-11.046,0-20-8.954-20-20S8.954,0,20,0c11.046,0,20,8.954,20,20Z" fill="#ececec" stroke-width="0"/>
+    <rect x="18.414" y="10.586" width="6" height="16" transform="translate(19.414 -9.698) rotate(45)" fill="#a9a9a9" stroke-width="0"/>
+    <rect x="26.899" y="8.1" width="6" height="4" transform="translate(15.899 -18.184) rotate(45)" fill="#a9a9a9" stroke-width="0"/>
+    <polygon points="9.393 30.607 16.464 27.778 12.222 23.535 9.393 30.607" fill="#a9a9a9" stroke-width="0"/>
+  </g>
+</svg>
